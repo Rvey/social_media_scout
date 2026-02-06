@@ -1,0 +1,7 @@
+pandas
+requests
+opencv-python
+transformers
+torch
+pillow
+google-genai
